@@ -1,0 +1,1 @@
+#define TEST3 0
